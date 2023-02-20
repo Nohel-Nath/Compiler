@@ -1,0 +1,107 @@
+Header file found 
+Header file found 
+Header file found 
+
+main function start 
+
+	
+
+	
+Addition :20+9 = 29 
+value of expression: 29
+
+	
+Subtraction :20-10=10 
+ value of expression: 10
+
+	
+Multiplication :20*69 
+ value of expression: 1380
+
+	
+Division :44/22 
+ value of expression: 2
+
+
+	
+Value of the variable: 60
+
+	
+Value of the variable: 30
+
+	
+Value of the variable: 0
+
+
+	char declaration
+ 
+	interger declaration
+ 
+	float declaration
+ 
+
+	
+Greater than :5 > 2 
+ 
+	
+		
+Subtraction :15-30=-15 
+ 
+	
+	
+	
+		
+Addition :20+9 = 29 
+
+	value of expression in IF: -15
+
+
+	
+	
+	
+Addition :10+2 = 12 
+value of expression: 12
+
+	WHILE Loop execution
+value of the loop: 2 expression value: 12
+
+value of the loop: 3 expression value: 12
+
+value of the loop: 4 expression value: 12
+
+value of the loop: 5 expression value: 12
+
+value of the loop: 6 expression value: 12
+
+
+	 
+	
+		
+Addition :3+10 = 13 
+value of expression: 13
+
+	FOR Loop execution
+value of the  i: 3 expression value : 13
+
+value of the  i: 6 expression value : 13
+
+value of the  i: 9 expression value : 13
+
+value of the  i: 12 expression value : 13
+
+value of the  i: 15 expression value : 13
+
+	  inc: 9
+ value of expression: 9
+
+
+	  dec: 7
+ value of expression: 7
+
+
+	  yes: 1
+ value of expression: 1
+
+
+Main function END
+	
